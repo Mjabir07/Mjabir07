@@ -8,7 +8,7 @@
 <br />
 
 <!-- Animated Hero Image -->
-<img src="hero.gif" alt="Animated Welcome" width="650" />
+<img src="https://raw.githubusercontent.com/Mjabir07/Mjabir07/main/hero.gif" alt="Animated Welcome" width="650" />
 
 <br />
 <br />
