@@ -8,7 +8,7 @@
 <br />
 
 <!-- Animated Hero Image -->
-<img src="Subtle_cinematic_animation_-ezgif.com-video-to-gif.gif" alt="Animated Welcome" width="650" />
+<img src="hero.gif" alt="Animated Welcome" width="650" />
 
 <br />
 <br />
@@ -25,7 +25,7 @@
 
 ## 🌐 About Me & What I'm Doing
 
-I am an IT professional with 8 years of experience (including 4 years in Dubai), managing cloud infrastructure and web hosting across 100+ client environments[cite: 1, 2]. I hold RHCE and CCNA certifications and am currently pursuing my AWS SAA-C03[cite: 1, 2].
+I am an IT professional with 8 years of experience (including 4 years in Dubai), managing cloud infrastructure and web hosting across 100+ client environments[cite: 1, 2]. I hold RHCE and CCNA certifications and am currently pursuing my AWS SAA-C03.
 
 - 🔭 **Currently working on:** Designing and deploying AZMIN Pulse, an enterprise infrastructure monitoring SaaS with Kubernetes, CI/CD automation, and AES-256 encrypted telemetry[cite: 1, 2].
 - 💼 **Current Role:** Head of Technical Department at Alwafaa Group in Dubai, managing daily AWS EC2, IAM, VPC, and ALB production[cite: 1, 2].
