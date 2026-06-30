@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Hello, I'm MUHAMMED JABIR K[cite: 1, 2]
+# 👨‍💻 Hello, I'm MUHAMMED JABIR K
 
-### 🚀 Cloud and Infrastructure Engineer | Head of Technical Department[cite: 1, 2] 
-### 💡 Specializing in AWS production management, Linux server administration, and infrastructure automation[cite: 1, 2]
+### 🚀 Cloud and Infrastructure Engineer | Head of Technical Department 
+### 💡 Specializing in AWS production management, Linux server administration, and infrastructure automation
 
 <br />
 
 <!-- Animated Hero Image -->
-<img src="Assets/output.gif" alt="Animated Welcome" width="650" />
+<img src="Subtle_cinematic_animation_-ezgif.com-video-to-gif.gif" alt="Animated Welcome" width="650" />
 
 <br />
 <br />
